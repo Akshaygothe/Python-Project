@@ -15,3 +15,4 @@ User is playing Rock Paper Sciessors with computer. At a time they are making th
 # Project 3: Hangman
 In this project,
 User have to identify the English word randomly selected by computer. User have 6 attepmts to identify that word. Also, some latters of that word are shown. So, that it will be help for user. If user able to identify that word in 6 attpemts then good. Otherwise, he will loose the game.
+Random words are selected by computer is in Words.py file.
