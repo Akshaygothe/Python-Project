@@ -9,5 +9,7 @@ In this project,
 First, we have to select range in between of numbers. Then we can try few attempts to guess the number using instruction provided by opponent.
 
 # Project 2: Rock Paper Sciessors
+In this project,
+User is playing Rock Paper Sciessors with computer. At a time they are making their choice of either Rock, Paper, or Sciessors. As, Rock beats sciessor, Sciessor beats Paper and Paper beats Rock. Using this observations result is declared. 
 
 # Project 3: Hangman
