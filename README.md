@@ -26,4 +26,8 @@ I try to create game TicTacToe. User can play with computer, where computer is n
 In this project,
 Computer is makeing good moves than random choices. So, its some sort of hard for user player to win. For makeing good moves computer is useing minmax function. Before makeing an moves it is analysing the game using recursive function.
 
+# Project 6: Binary Search
+In this project,
+I created a list of 10000 numbers using random function. This list is passed to linear search and binary search to search a target number. and time comparison is done using time function. Binary search is best using log n time complexity. Instead of linear search of time complexity of n.
+
 
