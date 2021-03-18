@@ -21,3 +21,9 @@ Random words are selected by computer is in Words.py file.
 # Project 4: TicTacToe
 In this project,
 I try to create game TicTacToe. User can play with computer, where computer is not geinus. User has much probabity of winning.  
+
+# Project 5: Genius Tic Tac Toe
+In this project,
+Computer is makeing good moves than random choices. So, its some sort of hard for user player to win. For makeing good moves computer is useing minmax function. Before makeing an moves it is analysing the game using recursive function.
+
+
