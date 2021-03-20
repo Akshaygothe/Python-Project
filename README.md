@@ -30,4 +30,7 @@ Computer is makeing good moves than random choices. So, its some sort of hard fo
 In this project,
 I created a list of 10000 numbers using random function. This list is passed to linear search and binary search to search a target number. and time comparison is done using time function. Binary search is best using log n time complexity. Instead of linear search of time complexity of n.
 
+# Project 7: Mine Sweepers
+This is a command line based game. In which user have to choose a location from ground of size (10 by 10). In some location, there are few bombs planted which are dengerous for game life. So, dig cousicsly. You may loose the game.
+
 
