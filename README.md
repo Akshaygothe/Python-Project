@@ -38,3 +38,6 @@ In this project,
 We have to pass the sudoku puzzle from command line. And then program of sudoku solver solve that puzzle using recursive calling function and backtracing method.
 After solving that puzzle it display the solved version of puzzle. If it is unslovable, or wrong puzzle then it returns False in respect to it is unsolvable.
 
+# Project 9: Dice Rolling Simulator
+This is a simple python GUI project.
+It mainly uses a tkinter to create GUI. Using it we can roll the dice for playing Snake and Ladders, Ludo and Checkers games.
