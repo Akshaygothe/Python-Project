@@ -41,3 +41,8 @@ After solving that puzzle it display the solved version of puzzle. If it is unsl
 # Project 9: Dice Rolling Simulator
 This is a simple python GUI project.
 It mainly uses a tkinter to create GUI. Using it we can roll the dice for playing Snake and Ladders, Ludo and Checkers games.
+
+# Project 10: Calculator
+This ia s simple python GUI project. 
+It uses a tkinter to create GUI. Using this calculator we can perform basic mathemitacal operations such as multiplication(*), Division(/), Subration(-), Addition(+), Reminder
+(%). The result is shown at place of querry. 
