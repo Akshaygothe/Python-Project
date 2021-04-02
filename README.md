@@ -46,3 +46,18 @@ It mainly uses a tkinter to create GUI. Using it we can roll the dice for playin
 This ia s simple python GUI project. 
 It uses a tkinter to create GUI. Using this calculator we can perform basic mathemitacal operations such as multiplication(*), Division(/), Subration(-), Addition(+), Reminder
 (%). The result is shown at place of querry. 
+
+# Project 11: Convert Text To Speech
+Text to speech is a process to convert any text into voice. Text to speech project takes words on digital devices and convert them into audio with a button click or finger touch. Text to speech python project is very helpful for people who are struggling with reading.
+
+To implement this project, we will use the basic concepts of Python, Tkinter, gTTS, and playsound libraries.
+
+1. Tkinter is a standard GUI Python library that is one of the fastest and easiest ways to build GUI applications using Tkinter.
+2. gTTS (Google Text-to-Speech) is a Python library, which is a very easy library that converts the text into audio.
+3. The playsound module is used to play audio files. With this module, we can play a sound file with a single line of code.
+
+In this project, we add a message which we want to convert into voice and click on play button to play the voice of that text message.
+
+-> Importing the modules
+-> Create the display window
+-> Define functions
