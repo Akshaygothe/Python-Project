@@ -58,6 +58,6 @@ To implement this project, we will use the basic concepts of Python, Tkinter, gT
 
 In this project, we add a message which we want to convert into voice and click on play button to play the voice of that text message.
 
--> Importing the modules
--> Create the display window
--> Define functions
+1. Importing the modules
+2. Create the display window
+3. Define functions
