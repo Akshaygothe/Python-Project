@@ -65,5 +65,6 @@ In this project, we add a message which we want to convert into voice and click 
 # Project 12: Book Reader
 Sometimes reading books is a boring work. And for some readers english is not alwayes easy to read. So, to avoid this i tryed to make an simple module. Using it, computer can read books for us. For that i used pyttsx3 module. Using it we can access inbuild voice of windows system.
 There is another module fitz to access the data of pdf. Using fitz i extract textual data from pdf books. That textual data is transfer to speech module. Which will read that textual data for us. At the end we have the book reader for us. 
+
 Sometimes, pdf are encrypted with passwards. Using fitz, i added few lines of code to check if pdf is encrypted or not. If file is encrypted then program ask passward to user.
 After enserting passward, program can read the dtata in pdf. Otherwise, it contineous to work next.
