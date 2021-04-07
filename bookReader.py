@@ -17,12 +17,16 @@ def speak(audio):
     engine.runAndWait()
 
 dir_path = 'F:/Books/'
-books = ['A brief history of human kind', 'Instructions', 'Python.Natural.Language.Processing']
+books = ['A brief history of human kind', 'Instructions', 'Python.Natural.Language.Processing','The Notebook', 'Adagrad_Hiring_Challenge-protected']
 #path = r'C:/Users/Admini/newproj/A-Very-Short-Story.pdf'
 
 def bookReader(path, book_name):
     get_out = 0
     doc = fitz.open(path)
+    # decrypt password-protected document:
+    if doc.is_encrypted:
+        pw = input("Enter Password: ")
+        doc.authenticate(pw)              # pw is a string containing the password
     pdf_size = doc.pageCount
     print("number of pages:",doc.pageCount)
 
@@ -95,6 +99,20 @@ if __name__ == '__main__':
     exited_page = bookReader(os.path.join(dir_path + books[book_number] + '.pdf'), books[book_number])
     print(f'You stop on page Number: {exited_page + 1}')
     print("visit Next Time.")
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
 
 
     
